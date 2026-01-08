@@ -106,9 +106,4 @@ src/
 └── index.css      # Tailwind styles
 ```
 
-## Learn More
 
-- [React Query](https://tanstack.com/query)
-- [InstantDB](https://www.instantdb.com/docs)
-- [Zustand](https://github.com/pmndrs/zustand)
-- [Tailwind](https://tailwindcss.com)
